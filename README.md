@@ -27,7 +27,7 @@
 </br>
 </br>
 <a href="">
-<img height="165em" alt="Murat's Github Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=muratozturk5&show_icons=true&count_private=true&theme=react&bg_color=0D1117" />   
+<img height="165em" alt="Murat's Github Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=muratozturk5&show_icons=true&count_private=true&theme=react&bg_color=0D1117" />  
 <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muratozturk5&langs_count=8&count_private=true&layout=compact&theme=react&bg_color=0D1117&&hide=html,css,javascript" />
 </a>
 </p>
