@@ -2,8 +2,13 @@
 <h1 align="center">  Hi There!  I'm Murat <img src="Hi.gif" width="40px" />  </h1> 
 
 <p align='center'>
-  A mobile and .net developer from Turkey.
+  I'm an enthusiastic programmer, working on Mobile and .NET Development from Turkey.
 </p>
+
+<div align='center'>
+<img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=54BAD7&center=true&lines=Full+Stack+Developer;Mobile+Developer;Open+Source+Contributor;Code+For+Everyone'/>
+</div>
+
 </br>
 <p align='center'>
     <a href='https://github.com/muratozturk5?tab=repositories&sort=stargazers'>
@@ -27,12 +32,12 @@
 
 <p align="center">
 
-<img height="150em" alt="Murat's Github Stats" align="center" src="https://streak-stats.demolab.com?user=muratozturk5&theme=react&mode=weekly&background=0D1117" />
+<img height="155em" alt="Murat's Github Stats" align="center" src="https://streak-stats.demolab.com?user=muratozturk5&theme=react&mode=weekly&background=0D1117" />
 </br>
 </br>
 <a href="">
-<img height="150em" alt="Murat's Github Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=muratozturk5&show_icons=true&count_private=true&theme=react&bg_color=0D1117" />    
-<img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muratozturk5&langs_count=8&count_private=true&layout=compact&theme=react&bg_color=0D1117&&hide=html,css,javascript" />
+<img height="155em" alt="Murat's Github Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=muratozturk5&show_icons=true&count_private=true&theme=react&bg_color=0D1117" />    
+<img height="155em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muratozturk5&langs_count=8&count_private=true&layout=compact&theme=react&bg_color=0D1117&&hide=html,css,javascript" />
 </a>
 </p>
 
