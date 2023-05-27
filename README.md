@@ -23,7 +23,7 @@
     <a href='https://www.linkedin.com/in/murat-%C3%B6zt%C3%BCrk-7a9306217/' target='_blank'>
         <img src='https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white'/>
     </a>  
-   <a href='https://www.instagram.com/murat318ozturk/' target='_blank'>
+   <a href='https://www.instagram.com/muratb.ozturk/' target='_blank'>
            <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
     </a>
 </p>
