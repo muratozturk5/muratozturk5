@@ -9,7 +9,6 @@
   <a href="https://muratozturk.dev"><img alt="muratozturk.dev" src="https://img.shields.io/badge/muratozturk.dev-ff4f1f?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/muratozturk5"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-12110f?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:hello@muratozturk.dev"><img alt="hello@muratozturk.dev" src="https://img.shields.io/badge/hello%40muratozturk.dev-12110f?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://codecanyon.net/user/murat318ozturk/portfolio"><img alt="CodeCanyon" src="https://img.shields.io/badge/CodeCanyon-12110f?style=for-the-badge&logo=envato&logoColor=white"></a>
   <a href="https://muratozturk.dev/cv/Murat-Ozturk-CV-EN.pdf"><img alt="Download CV" src="https://img.shields.io/badge/CV-PDF-12110f?style=for-the-badge&labelColor=12110f&color=ff4f1f"></a>
 </p>
 
@@ -18,7 +17,7 @@
 Restaurant tools used across Türkiye, HR and transport apps for teams on the move, and AI products of my own. Six years of native Kotlin and Swift, these days mostly Jetpack Compose, SwiftUI and Kotlin Multiplatform, with Node.js or .NET behind them when a product needs a backend.
 
 - **Now:** native Android and iOS apps at **EasyHR AI Platform** and **Uris Tech**
-- **On the side:** AI app templates on CodeCanyon (407 sales) and white-label builds for 58 clients
+- **Freelance:** 60+ white-label AI app builds for 58 clients worldwide
 - **Before:** five years at Liwa Yazılım building the SambaPOS companion apps
 - **Open to:** selected freelance work, from İstanbul
 
@@ -26,7 +25,7 @@ Restaurant tools used across Türkiye, HR and transport apps for teams on the mo
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-  <img alt="6+ years shipping mobile software, 13+ apps live on Google Play and the App Store, 407 template sales on CodeCanyon, 58 white-label clients" src="assets/stats-light.svg" width="100%">
+  <img alt="6+ years shipping mobile software, 13+ apps live on Google Play and the App Store, 58 freelance clients worldwide, 300+ stars on open source repos" src="assets/stats-light.svg" width="100%">
 </picture>
 
 <br><br>
@@ -40,51 +39,58 @@ Restaurant tools used across Türkiye, HR and transport apps for teams on the mo
 
 <table>
   <tr>
-    <td width="25%" valign="top">
+    <td width="33%" valign="top">
       <img src="assets/icon-apf.png" width="52" alt="APF icon"><br>
       <b>APF: Auto Part Finder</b><br>
       <sub>One search across 59 auto parts suppliers, with VIN lookup, POS and e-invoicing. Desktop, Android, iOS.</sub><br>
       <sub><a href="https://apps.apple.com/tr/app/apf-auto-part-finder/id6820951022">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.autopartfinder.mobile">Google Play</a></sub>
     </td>
-    <td width="25%" valign="top">
+    <td width="33%" valign="top">
       <img src="assets/icon-uris.png" width="52" alt="Uris icon"><br>
       <b>Uris Pro · Kids · 360</b><br>
       <sub>Live staff and school transport for passengers, drivers and fleet managers. 1K+ installs, 4.6 on the App Store.</sub><br>
       <sub><a href="https://apps.apple.com/tr/app/uris-pro/id6757388425">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.uristech.uris">Google Play</a></sub>
     </td>
-    <td width="25%" valign="top">
+    <td width="33%" valign="top">
       <img src="assets/icon-easyhr.png" width="52" alt="EasyHR icon"><br>
       <b>EasyHR AI Platform</b><br>
       <sub>HR in a pocket: geofence, NFC and QR attendance, leave, approvals and a team feed. Compose + SwiftUI.</sub><br>
       <sub><a href="https://apps.apple.com/tr/app/easyhr-ai-platform/id6791637017">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.tlsyazilim.easyhr">Google Play</a></sub>
     </td>
-    <td width="25%" valign="top">
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
       <img src="assets/icon-samba.png" width="52" alt="Samba Patron icon"><br>
-      <b>Samba Patron & Mobile</b><br>
-      <sub>SambaPOS companions for restaurant owners and waiters, shipped in 2021 and moved to Compose Multiplatform. 4.5 from 91 ratings.</sub><br>
+      <b>Samba Patron</b><br>
+      <sub>The SambaPOS owner app: live revenue and branch reports, shipped in 2021. 4.5 from 91 ratings, 1K+ installs.</sub><br>
       <sub><a href="https://apps.apple.com/tr/app/samba-patron-samba-boss/id1598881147">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.devearth.sambapatron">Google Play</a></sub>
+    </td>
+    <td width="33%" valign="top">
+      <img src="assets/icon-sambamobile.png" width="52" alt="Samba Mobile icon"><br>
+      <b>Samba Mobile</b><br>
+      <sub>Waiters take orders and payments at the table, synced live with SambaPOS. One Compose Multiplatform codebase.</sub><br>
+      <sub><a href="https://apps.apple.com/tr/app/samba-mobile/id6807137864">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.liwasoft.mobileclient">Google Play</a></sub>
+    </td>
+    <td width="33%" valign="top">
+      <img src="assets/icon-conversai.png" width="52" alt="AI apps icon"><br>
+      <b>White-label AI apps</b><br>
+      <sub>Chat, image, video and music apps built on OpenAI, RunwayML and Suno, delivered as custom builds for 58 freelance clients.</sub>
     </td>
   </tr>
   <tr>
-    <td width="25%" valign="top">
-      <img src="assets/icon-conversai.png" width="52" alt="ConversAI icon"><br>
-      <b>ConversAI, VirtuAI & co.</b><br>
-      <sub>AI chat, image, video and music app templates for Android and iOS. 407 sales, top item 203.</sub><br>
-      <sub><a href="https://codecanyon.net/user/murat318ozturk/portfolio">CodeCanyon</a></sub>
-    </td>
-    <td width="25%" valign="top">
+    <td width="33%" valign="top">
       <img src="assets/icon-kidai.png" width="52" alt="KidAI icon"><br>
       <b>KidAI: Storytime Magic</b><br>
       <sub>Bedtime stories written and read aloud by AI. One Compose Multiplatform codebase, Gemini and ElevenLabs.</sub><br>
       <sub><a href="https://apps.apple.com/tr/app/kidai-storytime-magic/id6746138096">App Store</a> · <a href="https://play.google.com/store/apps/details?id=app.kidai">Google Play</a></sub>
     </td>
-    <td width="25%" valign="top">
+    <td width="33%" valign="top">
       <img src="assets/icon-generatetr.png" width="52" alt="generate.tr icon"><br>
       <b>generate.tr</b><br>
       <sub>Browser tools for app makers: store screenshots, AI icons, localisation. Seven apps, one sign-in, 35 languages.</sub><br>
       <sub><a href="https://generate.tr">generate.tr</a> · <a href="https://screenshot.generate.tr">screenshot</a></sub>
     </td>
-    <td width="25%" valign="top">
+    <td width="33%" valign="top">
       <img src="assets/icon-mova.png" width="52" alt="Mova icon"><br>
       <b>Mova</b><br>
       <sub>My most starred repo: a TMDb movie app built as a clean architecture reference, also on Google Play.</sub><br>
