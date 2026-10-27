@@ -114,7 +114,7 @@ Restaurant tools used across Türkiye, HR and transport apps for teams on the mo
   <img alt="muratozturk.dev on desktop and mobile: a live 3D iPhone, my work, timeline, posts and CV" src="assets/site-preview.webp" width="100%">
 </a>
 
-<p align="center"><sub><b><a href="https://muratozturk.dev">muratozturk.dev</a></b> · selected work, work timeline, posts and an ATS-ready CV, in English and Turkish</sub></p>
+<p align="center"><sub><b><a href="https://muratozturk.dev">muratozturk.dev</a></b> · selected work, work timeline, posts and my CV, in English and Turkish</sub></p>
 
 <br>
 
