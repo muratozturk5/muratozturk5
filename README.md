@@ -43,7 +43,7 @@ Restaurant tools used across Türkiye, HR and transport apps for teams on the mo
       <img src="assets/icon-apf.png" width="52" alt="APF icon"><br>
       <b>APF: Auto Part Finder</b><br>
       <sub>One search across 59 auto parts suppliers, with VIN lookup, POS and e-invoicing. Desktop, Android, iOS.</sub><br>
-      <sub><a href="https://apps.apple.com/tr/app/apf-auto-part-finder/id6820951022">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.autopartfinder.mobile">Google Play</a></sub>
+      <sub><a href="https://autopartfinder.net">autopartfinder.net</a> · <a href="https://apps.apple.com/tr/app/apf-auto-part-finder/id6820951022">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.autopartfinder.mobile">Google Play</a></sub>
     </td>
     <td width="33%" valign="top">
       <img src="assets/icon-uris.png" width="52" alt="Uris icon"><br>
@@ -82,7 +82,7 @@ Restaurant tools used across Türkiye, HR and transport apps for teams on the mo
       <img src="assets/icon-kidai.png" width="52" alt="KidAI icon"><br>
       <b>KidAI: Storytime Magic</b><br>
       <sub>Bedtime stories written and read aloud by AI. One Compose Multiplatform codebase, Gemini and ElevenLabs.</sub><br>
-      <sub><a href="https://apps.apple.com/tr/app/kidai-storytime-magic/id6746138096">App Store</a> · <a href="https://play.google.com/store/apps/details?id=app.kidai">Google Play</a></sub>
+      <sub><a href="https://kidai.app">kidai.app</a> · <a href="https://apps.apple.com/tr/app/kidai-storytime-magic/id6746138096">App Store</a> · <a href="https://play.google.com/store/apps/details?id=app.kidai">Google Play</a></sub>
     </td>
     <td width="33%" valign="top">
       <img src="assets/icon-generatetr.png" width="52" alt="generate.tr icon"><br>
